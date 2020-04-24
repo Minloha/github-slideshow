@@ -1,0 +1,9 @@
+name: AntiCurse
+version: 2.0.0
+main: mvp.main
+auther: Minloha
+commands:
+  rp:
+    description: player 原因 举报玩家
+  add:
+    description: 关键词 添加关键字
